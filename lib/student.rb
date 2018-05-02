@@ -11,4 +11,8 @@ class Student < User
     @knowledge << knowledge_s
   end
 
+  def knowledge
+    @knowledge
+  end
+
 end
