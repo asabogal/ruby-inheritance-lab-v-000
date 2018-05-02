@@ -1,3 +1,5 @@
-class Student 
+require './teacher.rb'
+
+class Student
 
 end
